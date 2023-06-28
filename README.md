@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Electron React boilerplate
+
+Very basic electron + react starting point for an application
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
